@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/route-tech-task/static/css/main.81196d52.css",
+    "main.js": "/route-tech-task/static/js/main.e3c4ca8a.js",
+    "static/js/453.fba60667.chunk.js": "/route-tech-task/static/js/453.fba60667.chunk.js",
+    "index.html": "/route-tech-task/index.html",
+    "main.81196d52.css.map": "/route-tech-task/static/css/main.81196d52.css.map",
+    "main.e3c4ca8a.js.map": "/route-tech-task/static/js/main.e3c4ca8a.js.map",
+    "453.fba60667.chunk.js.map": "/route-tech-task/static/js/453.fba60667.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81196d52.css",
+    "static/js/main.e3c4ca8a.js"
+  ]
+}
