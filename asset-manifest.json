@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RouteTask/static/css/main.81196d52.css",
-    "main.js": "/RouteTask/static/js/main.fdd0a8ec.js",
+    "main.js": "/RouteTask/static/js/main.001d1b4b.js",
     "static/js/453.fba60667.chunk.js": "/RouteTask/static/js/453.fba60667.chunk.js",
     "index.html": "/RouteTask/index.html",
     "main.81196d52.css.map": "/RouteTask/static/css/main.81196d52.css.map",
-    "main.fdd0a8ec.js.map": "/RouteTask/static/js/main.fdd0a8ec.js.map",
+    "main.001d1b4b.js.map": "/RouteTask/static/js/main.001d1b4b.js.map",
     "453.fba60667.chunk.js.map": "/RouteTask/static/js/453.fba60667.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81196d52.css",
-    "static/js/main.fdd0a8ec.js"
+    "static/js/main.001d1b4b.js"
   ]
 }
