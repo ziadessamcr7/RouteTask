@@ -20,7 +20,8 @@ const data = {
         { "id": 6, "customer_id": 4, "date": "2022-01-01", "amount": 750 },
         { "id": 7, "customer_id": 3, "date": "2022-01-02", "amount": 1250 },
         { "id": 8, "customer_id": 5, "date": "2022-01-01", "amount": 2500 },
-        { "id": 9, "customer_id": 5, "date": "2022-01-02", "amount": 875 }
+        { "id": 9, "customer_id": 5, "date": "2022-01-02", "amount": 875 },
+        { "id": 10, "customer_id": 5, "date": "2022-01-03", "amount": 50 }
     ]
 };
 
